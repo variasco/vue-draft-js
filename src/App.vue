@@ -1,5 +1,5 @@
 <script setup></script>
 
-<template></template>
+<template>{{ new Date() }}</template>
 
 <style scoped></style>
